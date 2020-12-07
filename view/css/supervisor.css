@@ -1,0 +1,13 @@
+#div_supervisor:hover, #logout:hover, #config:hover {
+  opacity: 0.7;
+}
+
+#div_supervisor:hover{
+  opacity: 0.7;
+  color:#298A08;
+}
+
+#div_supervisor, #config{
+  text-decoration:none;
+  color:#fff;
+}
